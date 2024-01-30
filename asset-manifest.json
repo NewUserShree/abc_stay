@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NewUserShree.githun.io/abc_stay/static/css/main.7c4ff081.css",
-    "main.js": "/NewUserShree.githun.io/abc_stay/static/js/main.f3f17315.js",
-    "static/js/787.982c0bb8.chunk.js": "/NewUserShree.githun.io/abc_stay/static/js/787.982c0bb8.chunk.js",
-    "index.html": "/NewUserShree.githun.io/abc_stay/index.html",
-    "main.7c4ff081.css.map": "/NewUserShree.githun.io/abc_stay/static/css/main.7c4ff081.css.map",
-    "main.f3f17315.js.map": "/NewUserShree.githun.io/abc_stay/static/js/main.f3f17315.js.map",
-    "787.982c0bb8.chunk.js.map": "/NewUserShree.githun.io/abc_stay/static/js/787.982c0bb8.chunk.js.map"
+    "main.css": "/NewUserShree/abc_stay.git/static/css/main.7c4ff081.css",
+    "main.js": "/NewUserShree/abc_stay.git/static/js/main.3b94b2e8.js",
+    "static/js/787.982c0bb8.chunk.js": "/NewUserShree/abc_stay.git/static/js/787.982c0bb8.chunk.js",
+    "index.html": "/NewUserShree/abc_stay.git/index.html",
+    "main.7c4ff081.css.map": "/NewUserShree/abc_stay.git/static/css/main.7c4ff081.css.map",
+    "main.3b94b2e8.js.map": "/NewUserShree/abc_stay.git/static/js/main.3b94b2e8.js.map",
+    "787.982c0bb8.chunk.js.map": "/NewUserShree/abc_stay.git/static/js/787.982c0bb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4ff081.css",
-    "static/js/main.f3f17315.js"
+    "static/js/main.3b94b2e8.js"
   ]
 }
