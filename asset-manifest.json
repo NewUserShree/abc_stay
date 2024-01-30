@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NewUserShree/abc_stay.git/static/css/main.7c4ff081.css",
-    "main.js": "/NewUserShree/abc_stay.git/static/js/main.3b94b2e8.js",
-    "static/js/787.982c0bb8.chunk.js": "/NewUserShree/abc_stay.git/static/js/787.982c0bb8.chunk.js",
-    "index.html": "/NewUserShree/abc_stay.git/index.html",
-    "main.7c4ff081.css.map": "/NewUserShree/abc_stay.git/static/css/main.7c4ff081.css.map",
-    "main.3b94b2e8.js.map": "/NewUserShree/abc_stay.git/static/js/main.3b94b2e8.js.map",
-    "787.982c0bb8.chunk.js.map": "/NewUserShree/abc_stay.git/static/js/787.982c0bb8.chunk.js.map"
+    "main.css": "/stay/static/css/main.7c4ff081.css",
+    "main.js": "/stay/static/js/main.e717475e.js",
+    "static/js/787.982c0bb8.chunk.js": "/stay/static/js/787.982c0bb8.chunk.js",
+    "index.html": "/stay/index.html",
+    "main.7c4ff081.css.map": "/stay/static/css/main.7c4ff081.css.map",
+    "main.e717475e.js.map": "/stay/static/js/main.e717475e.js.map",
+    "787.982c0bb8.chunk.js.map": "/stay/static/js/787.982c0bb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4ff081.css",
-    "static/js/main.3b94b2e8.js"
+    "static/js/main.e717475e.js"
   ]
 }
